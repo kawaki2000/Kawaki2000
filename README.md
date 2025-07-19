@@ -2,7 +2,7 @@
 
 <p align="center">  
   <a href="https://github.com/kawaki2000">  
-    <img src="[https://files.catbox.moe/k0kxag.png](https://files.catbox.moe/574bfp.jpg)" height="200" alt="Profil kawaki227"/>  
+    <img src="https://files.catbox.moe/k0kxag.png" height="200" alt="Profil kawaki227"/>  
   </a>  
 </p>  
 
