@@ -2,7 +2,7 @@
 
 <p align="center">  
   <a href="https://github.com/kawaki2000">  
-    <img src="https://files.catbox.moe/k0kxag.png" height="200" alt="Profil MHD"/>  
+    <img src="[https://files.catbox.moe/k0kxag.png](https://files.catbox.moe/574bfp.jpg)" height="200" alt="Profil kawaki227"/>  
   </a>  
 </p>  
 
@@ -45,7 +45,7 @@
 ## 🌐 Réseaux sociaux  
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhd227)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/AhmmiKun)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kawaki-227)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KA-WA-KI)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://Wa.me/22781289418)  
 
@@ -60,14 +60,3 @@
 </p>  
 
 ---  
-
-## ✍️ Citation du jour  
-![Citation](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)  
-
----  
-
-## 💰 Me soutenir  
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kawaki2000)  
-
----
